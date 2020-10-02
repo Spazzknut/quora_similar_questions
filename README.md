@@ -1,4 +1,4 @@
-# Quora_similar_questions
+# Quora Similar Questions Prediction
 About the Dataset: 
 Quora is a question/answer based website where users can ask each other questions regarding any topic they like and other users who may be expertise in that field tend to answer. In their website, they have a column called similar questions where they list "similar questions."
 Here we are trying to predict the same. 
